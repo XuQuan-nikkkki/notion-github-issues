@@ -1,0 +1,16 @@
+# node
+node_modules/
+dist/
+
+# sensitive
+.env
+.env.local
+.env.*.local
+
+# vercel build artifacts
+.vercel/
+
+# OS / IDE
+.DS_Store
+.vscode/
+*.log
